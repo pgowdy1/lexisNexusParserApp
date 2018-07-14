@@ -24,7 +24,7 @@ namespace krisParserApp
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+            //Testing VS Studio commit.
         }
 
         private void exitButton_Click(object sender, EventArgs e)
