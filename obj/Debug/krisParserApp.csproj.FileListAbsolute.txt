@@ -1,0 +1,9 @@
+C:\Users\Perry\source\repos\krisParserApp\krisParserApp\bin\Debug\krisParserApp.exe.config
+C:\Users\Perry\source\repos\krisParserApp\krisParserApp\bin\Debug\krisParserApp.exe
+C:\Users\Perry\source\repos\krisParserApp\krisParserApp\bin\Debug\krisParserApp.pdb
+C:\Users\Perry\source\repos\krisParserApp\krisParserApp\obj\Debug\krisParserApp.csprojAssemblyReference.cache
+C:\Users\Perry\source\repos\krisParserApp\krisParserApp\obj\Debug\krisParserApp.Properties.Resources.resources
+C:\Users\Perry\source\repos\krisParserApp\krisParserApp\obj\Debug\krisParserApp.csproj.GenerateResource.cache
+C:\Users\Perry\source\repos\krisParserApp\krisParserApp\obj\Debug\krisParserApp.csproj.CoreCompileInputs.cache
+C:\Users\Perry\source\repos\krisParserApp\krisParserApp\obj\Debug\krisParserApp.exe
+C:\Users\Perry\source\repos\krisParserApp\krisParserApp\obj\Debug\krisParserApp.pdb
